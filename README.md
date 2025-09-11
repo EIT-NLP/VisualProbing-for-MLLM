@@ -7,6 +7,11 @@
 Multimodal Large Language Models (MLLMs) usually rely on the last or penultimate layer of CLIP-ViT for visual inputs, forming a default **deep-layer-first paradigm**.  
 But are deep features always optimal? Have the representational powers of shallow and middle layers been underestimated?
 
+<div align="center">
+  <img src="assets/images/figure1.png" alt="Visual Layer Analysis" width="80%">
+  <p><em>Figure 1: Layer-wise visual feature analysis in CLIP-ViT</em></p>
+</div>
+
 In this work, we analyze **layer-wise representational similarity** in CLIP-ViT and its correlation with downstream performance.  
 - We clearly divide shallow, middle, and deep feature spaces.  
 - Our study spans **models from 1.4B to 7B**, **datasets from 665K to 1M**, covering **10 benchmarks and 60+ tasks**.  
@@ -14,7 +19,7 @@ In this work, we analyze **layer-wise representational similarity** in CLIP-ViT 
 🔑 **Key Findings:**  
 - **Deep features** → stronger in semantically intensive tasks (e.g., OCR).  
 - **Shallow & middle features** → better for fine-grained perception tasks (counting, localization, object recognition).  
-- A simple **cross-layer fusion method** effectively harnesses shallow and middle features, further validating their importance.  
+- A simple **cross-layer fusion method** effectively harnesses shallow and middle features, further validating their importance.
 
 
 This work supports our main claim:  
