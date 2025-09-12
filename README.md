@@ -32,6 +32,7 @@ It also offers both theoretical foundations and practical guidelines for visual 
 
 ## ✅ TODO List
 - [ ] Release training & evaluation code
+- [ ] Release training data json file splits
 - [ ] Provide documentation & usage examples 
 
 
