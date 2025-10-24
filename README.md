@@ -10,7 +10,7 @@ But are deep features always optimal? Have the representational powers of shallo
 <div align="center">
   <img src="assets/images/figure1.png" alt="Visual Layer Analysis" width="80%">
   <p><em>Figure 1: Layer-wise visual feature analysis in CLIP-ViT</em></p>
-</div>
+</div>`
 
 In this work, we analyze **layer-wise representational similarity** in CLIP-ViT and its correlation with downstream performance.  
 - We clearly divide shallow, middle, and deep feature spaces.  
