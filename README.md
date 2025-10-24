@@ -32,6 +32,7 @@ It also offers both theoretical foundations and practical guidelines for visual 
 
 ## ✅ TODO List
 - [ ] Release training & evaluation code
+- [ ] Release training data json file splits
 - [ ] Provide documentation & usage examples 
 
 
@@ -41,13 +42,14 @@ It also offers both theoretical foundations and practical guidelines for visual 
 
 ## 📚 Citation
 ```bibtex
-@misc{chen2025rethinkingvisuallayerselection,
-      title={Rethinking Visual Layer Selection in Multimodal LLMs}, 
-      author={Haoran Chen and Junyan Lin and Xinhao Chen and Yue Fan and Xin Jin and Hui Su and Jianfeng Dong and Jinlan Fu and Xiaoyu Shen},
+@misc{chen2025multimodallanguagemodelsbetter,
+      title={Multimodal Language Models See Better When They Look Shallower}, 
+      author={Haoran Chen and Junyan Lin and Xinghao Chen and Yue Fan and Jianfeng Dong and Xin Jin and Hui Su and Jinlan Fu and Xiaoyu Shen},
       year={2025},
       eprint={2504.21447},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2504.21447}, 
+}
 }
 ```
