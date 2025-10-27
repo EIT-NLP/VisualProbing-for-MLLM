@@ -31,10 +31,10 @@ It also offers both theoretical foundations and practical guidelines for visual 
 
 
 ## ✅ TODO List
-- [ ] Release training & evaluation code
-- [ ] Release training data json file splits
-- [ ] Provide documentation & usage examples 
-
+- [x] Release training & evaluation code
+- [x] Release training data json file splits
+- [x] Provide documentation & usage examples 
+- [ ] Provide Layer-wise similarity  & feature fusion training & evaluation code
 
 🚀 _Code will be released soon at_ 👉 [https://github.com/EIT-NLP/VisualProbing-for-MLLM](https://github.com/EIT-NLP/VisualProbing-for-MLLM)
 
