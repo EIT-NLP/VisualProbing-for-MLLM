@@ -1,0 +1,3 @@
+python cvbench_gpt_and_match.py \
+    --json_path  /code/chr/eval_pipeline/eval_results/mmfuser/CVBench/answers/checkpoints_llava-mmfuser-finetune-1_4b-list-22-8-7-4-2/checkpoints_llava-mmfuser-finetune-1_4b-list-22-8-7-4-2_gpt.jsonl \
+    --result_path /code/chr/eval_pipeline/eval_results/mmfuser/CVBench/answers/checkpoints_llava-mmfuser-finetune-1_4b-list-22-8-7-4-2/checkpoints_llava-mmfuser-finetune-1_4b-list-22-8-7-4-2_gpt.txt
